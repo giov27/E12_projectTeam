@@ -1,0 +1,27 @@
+
+@media (max-width: 670px) {
+  .container-id{
+    width: 100%;
+    display:inline-block;
+  }
+  .header-right {
+    width: 100%;
+    display: block;
+    
+  }
+  .header-right a{
+    display: none;
+  }
+}
+
+@media all and (max-width: 1000px) { 
+  .container{
+    width: 100%;
+    position: relative;
+    
+  }
+  .box {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+}
